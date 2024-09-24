@@ -21,6 +21,7 @@
 ### Tools
 - Visual Studio Code
 - SQL developer
+- GIT, GitHub
 - Jenkins
 - Sonarqube
 - Jira
