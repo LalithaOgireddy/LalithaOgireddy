@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hej alla! 👋 I am Lalitha.
 
-<!--
-**LalithaOgireddy/LalithaOgireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
+- I am a software developer currently in Sweden. I worked as Finacle developer in Infosys and IBM.
+- Currently learning Java. Aspiring to become a Java full stack engineer.
+- Always open to learn new technologies.
 
-Here are some ideas to get you started:
+### Experience
+- Industry consultant in IBM.
+- Senior Systems Engineer in Infosys Ltd.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- Finacle scripting
+- JavaScript
+- SQL
+- PL/SQL
+- HTML
+- CSS
+- Shell scripting
+
+### Tools
+- Visual Studio Code
+- SQL developer
+- Jenkins
+- Sonarqube
+- Jira
+- Postman
+
+### Get in touch
+- Mail: lalitha.ogireddy@gmail.com
+- Linkedin: [Lalitha-Linkedin](https://www.linkedin.com/in/lalitha-ogireddy)
