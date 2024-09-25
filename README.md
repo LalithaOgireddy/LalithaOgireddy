@@ -25,6 +25,7 @@
 - Jenkins
 - Sonarqube
 - Jira
+- iReport
 - Postman
 
 ### Get in touch
