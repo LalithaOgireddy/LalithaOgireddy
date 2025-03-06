@@ -10,16 +10,19 @@
 - Senior Systems Engineer in Infosys Ltd.
 
 ### Tech Stack
-- Finacle scripting
+- Java (Springboot, Hibernate ORM, JPA, REST APIs)
 - JavaScript
 - SQL
 - PL/SQL
 - HTML
 - CSS
+- Bootstrap
+- Finacle scripting
 - Shell scripting
 
 ### Tools
 - Visual Studio Code
+- IntelliJ
 - SQL developer
 - GIT, GitHub
 - Jenkins
