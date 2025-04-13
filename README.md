@@ -11,7 +11,7 @@
 
 ### Tech Stack
 - Java (Springboot, Hibernate ORM, JPA, REST APIs)
-- JavaScript
+- JavaScript (React JS)
 - SQL
 - PL/SQL
 - HTML
